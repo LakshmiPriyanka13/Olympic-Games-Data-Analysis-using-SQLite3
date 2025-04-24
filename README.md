@@ -4,9 +4,9 @@ This repository contains a comprehensive analysis of Olympic Games data, explori
 ## Contents
 <a href="https://github.com/LakshmiPriyanka13/Olympic-Games-Data-Analysis-using-SQLite3/blob/main/athlete_events.csv">athlete_events.csv</a>: Contains detailed records of athletes who have participated in the Olympics, including information like age, height, weight, team, event, and medals won          
 <a href="https://github.com/LakshmiPriyanka13/Olympic-Games-Data-Analysis-using-SQLite3/blob/main/noc_regions.csv">noc_regions.csv</a>: Maps National Olympic Committee (NOC) codes to their respective regions and notes            
-data analysis.db: SQLite database file that stores structured data in two main tables:
-OLYMPICS_HISTORY: Loaded from athlete_events.csv
-OLYMPICS_HISTORY_NOC_REGIONS: Loaded from noc_regions.csv
+<a href="https://github.com/LakshmiPriyanka13/Olympic-Games-Data-Analysis-using-SQLite3/blob/main/data%20analysis.db">data analysis.db</a>: SQLite database file that stores structured data in two main tables:        
+OLYMPICS_HISTORY: Loaded from athlete_events.csv               
+OLYMPICS_HISTORY_NOC_REGIONS: Loaded from noc_regions.csv                      
 SQL for data analysis.ipynb: Jupyter notebook showcasing how the raw data is loaded into SQL, along with various analytical queries to uncover insights
 
 ## Objectives
